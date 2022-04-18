@@ -1,0 +1,19 @@
+{
+  "name": "language",
+  "version": "1.0.0",
+  "description": "测试多语言Lokalise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonSage/language.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonSage/language/issues"
+  },
+  "homepage": "https://github.com/LeonSage/language#readme"
+}
